@@ -3,29 +3,30 @@
 Ein **generisches, fraktal-skaliertes Resonanz-Framework**  
 mit stochastischer Resonanz, φ-Hierarchie (Goldener Schnitt), diffuser Kopplung und Homeostase.
 
-**Ziel**: Forschern, Modellierern und Interessierten ein fertiges, stabiles Kernmodell geben, das sie nur durch Anpassen eines kleinen **Adapters** auf ihre eigene Domäne übertragen können – ohne den Kernmechanismus neu schreiben zu müssen.
+**Ziel**: Forschern und Modellierern ein fertiges, stabiles Kernmodell geben, das sie nur durch Anpassen eines kleinen **Adapters** auf ihre Domäne übertragen können – ohne den Kern neu zu schreiben.
 
-Anwendbar auf nahezu jede komplexe Domäne:
+Anwendbar auf:
 - Kernfusion & Plasma-Physik  
 - Quanten-Kohärenz (z. B. Mikrotubuli / Orch-OR)  
 - Chemie & Reaktionsdynamik  
 - Neurologie & Biologische Netzwerke  
 - Mathematik & Fraktale Systeme  
-- Makroökonomie, Ökologie, soziale Systeme, KI-Dynamik u.v.m.
+- Makroökonomie, Ökologie, KI-Dynamik u.v.m.
 
-## Das Wichtigste in einem Satz
+## Das Wichtigste
 
-**Der Kern bleibt immer gleich. Nur der Adapter (drei kurze Funktionen) wird pro Fachbereich angepasst.**
+Der **Kern** bleibt immer gleich.  
+Nur der **Adapter** (drei kurze Funktionen: normalize_inputs, doc_from_raw, interpret) wird pro Fachbereich angepasst – in 5–15 Minuten erledigt.
 
 ## Features
 
-- 3-Ebenen-Hierarchie (beliebig erweiterbar)  
-- Stochastische Resonanz (Sweet-Spot-Rausch-Optimierung)  
-- Fraktale Skalierung über φ ≈ 1.618 (Richtung „up“ oder „down“)  
-- Diffusive Kopplung zwischen Ebenen (bidirektional)  
-- DOC-Faktor (Degradation / Blockade / Reibung / Verlust)  
-- Homeostatische Regelung → stabilisiert automatisch (kein Runaway, kein Kollaps)  
-- Sehr geringer Aufwand für neue Domänen
+- 3-Ebenen-Hierarchie (erweiterbar)  
+- Stochastische Resonanz (Sweet-Spot-Rausch-Boost)  
+- Fraktale Skalierung mit φ ≈ 1.618 („up“ oder „down“)  
+- Diffusive bidirektionale Kopplung  
+- DOC-Faktor (Degradation/Blockade/Reibung)  
+- Homeostatische Stabilisierung (vermeidet Runaway/Kollaps)  
+- Minimaler Aufwand für neue Domänen
 
 ## Schnellstart
 
